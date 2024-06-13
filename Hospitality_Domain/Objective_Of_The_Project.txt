@@ -1,0 +1,21 @@
+
+Objective for creating a hospitality Project
+
+The main objective of this Power BI project for the hospitality domain is to enhance decision-making and optimize hotel operations through comprehensive data analysis. The project aims to achieve the following:
+
+Improve Guest Experience:
+
+Analyze guest feedback and satisfaction scores to identify areas for service improvement.
+Monitor average ratings by city and room category to ensure consistent quality.
+Optimize Operational Efficiency:
+
+Track occupancy rates by city and room type to manage resources effectively.
+Monitor housekeeping and maintenance performance to maintain high service standards.
+Revenue Management:
+
+Analyze revenue metrics such as ADR (Average Daily Rate) and RevPAR (Revenue per Available Room) to optimize pricing strategies.
+Identify revenue sources by booking platforms and city to enhance marketing strategies.
+Booking Analysis:
+
+Understand booking patterns by day type (weekday vs. weekend) and platform to tailor promotional offers.
+Analyze total bookings by room category to align with guest preferences.

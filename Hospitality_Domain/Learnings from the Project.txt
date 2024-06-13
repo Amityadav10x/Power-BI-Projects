@@ -1,0 +1,21 @@
+What i have learned from this project 
+
+From this project, I learned:
+
+Guest Satisfaction Insights:
+
+Identified key factors affecting guest satisfaction through detailed feedback and average rating analysis.
+Realized the importance of maintaining high service standards across different cities and room categories.
+
+Operational Performance Monitoring:
+
+Gained insights into occupancy rates and their impact on resource allocation and service delivery.
+Understood the significance of tracking maintenance and housekeeping performance for overall guest satisfaction.
+Revenue Optimization:
+
+Learned how to use revenue metrics like ADR and RevPAR to develop effective pricing strategies.
+Recognized the importance of analyzing revenue by booking platforms and city to enhance targeted marketing efforts.
+Booking Trends Analysis:
+
+Discovered patterns in booking behavior by day type and platform, which can be leveraged to design better promotional offers.
+Analyzed booking data by room category to understand guest preferences and improve room allocation strategies.
