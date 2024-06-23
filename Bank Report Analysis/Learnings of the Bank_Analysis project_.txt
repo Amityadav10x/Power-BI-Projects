@@ -1,0 +1,22 @@
+Learnings of the project:
+
+Customer Behavior Insights:
+
+Gained insights into customer demographics, showing higher loan applications and funded amounts among mortgage holders and longer-term employees.
+Identified that debt consolidation and credit card purposes had the highest funded amounts.
+Performance Trends:
+
+Observed a steady increase in loan applications and funded amounts over the year, with significant peaks in the last quarter.
+Noted geographical trends with higher funding in certain states, indicating regional variations in loan demand.
+Interest and DTI Analysis:
+
+Monitored average interest rates and debt-to-income ratios, finding stable interest rates with a slight month-over-month increase.
+Identified that higher DTI ratios correlated with increased funded amounts in certain segments.
+Loan Purpose and Ownership:
+
+Analyzed the impact of loan purpose and home ownership on funding amounts, noting that mortgage holders had higher average loan amounts compared to renters.
+Highlighted that major purchases and small businesses were also significant contributors to the funded amounts.
+Detailed Loan Data Utilization:
+
+Utilized detailed loan data to track individual loan performance, including fully paid, charged off, and ongoing loans.
+Enabled stakeholders to filter and focus on specific loan segments for targeted analysis and decision-making.
