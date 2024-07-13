@@ -20,7 +20,7 @@
   </div>
 
   <h2>Demo</h2>
-  <p><a href="https://drive.google.com/uc?export=view&id=1e2W3GN2WOaIro56FgxmnDl0UHOYBz7W1">View Demo</a></p>
+  <p><a href="https://drive.google.com/file/d/1R0CL5O82sGh3SVlliEkQRdT4tYwMpsih/view?usp=drive_link">View Demo</a></p>
 
   <h2>Tech Stack</h2>
   <h3>Tools:</h3>
