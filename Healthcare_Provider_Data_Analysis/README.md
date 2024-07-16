@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Healthcare Navigator Dashboard</title>
 </head>
 <body>
     <h1>Healthcare Navigator Dashboard</h1>
@@ -47,5 +46,11 @@
     <h2>Screenshots</h2>
     <img src="https://drive.google.com/uc?id=1VPbfYfx5DAONPywO5GU7ToxZZxTBHX6z" alt="Screenshot 1">
     <img src="https://drive.google.com/uc?id=1x9bnQfR9PhZLNF_C7zfUyoHqB6Bh7dIY" alt="Screenshot 2">
+    <h2>Embedded PowerPoint Presentation</h2>
+<a href="https://docs.google.com/presentation/d/17SB9NgSPgpY2ii_5sraxKpDs9tagrICU/edit?usp=drive_link" target="_blank">
+    Click here to see demo.
+</a> 
+
+
 </body>
 </html>
