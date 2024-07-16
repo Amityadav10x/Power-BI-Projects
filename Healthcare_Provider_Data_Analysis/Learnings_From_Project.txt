@@ -1,0 +1,26 @@
+Learnings
+Creating this healthcare navigator dashboard provided valuable insights into data visualization, analysis, and the powerful capabilities of Power BI. Key learnings include:
+
+Data Integration
+Combining Diverse Data Sources: Leveraged Power BI's data integration capabilities to combine various healthcare data sources, including billing information, patient records, treatment costs, and insurance details. This allowed for a comprehensive overview of the healthcare ecosystem.
+
+Data Transformation: Used Power BI's Power Query Editor to clean, transform, and shape the data, ensuring it was ready for analysis and visualization.
+Visualization Techniques
+
+Effective Chart and Graph Usage: Utilized a variety of Power BI visualizations, such as bar charts, pie charts, and line graphs, to display complex data in a clear and intuitive manner. This included dynamic and interactive visuals that provided deeper insights with just a few clicks.
+
+Custom Visuals: Incorporated custom visuals available in the Power BI marketplace to enhance the dashboard's functionality and visual appeal.
+User Interaction
+
+Interactive Filters: Implemented Power BI’s slicers and filters to enable users to interact with the data dynamically. This included filters for gender, month, city, and state, allowing users to customize their view and drill down into specific subsets of data.
+
+Tooltips and Drill through: Added tooltips to provide additional context and details when users hover over data points, and used drill through features to enable detailed analysis on specific data points.
+
+Healthcare Insights
+Cost Analysis: Analyzed various cost metrics, including billing amounts, medication costs, treatment costs, and room charges. Power BI’s ability to handle large datasets allowed for detailed cost analysis and identification of cost-saving opportunities.
+
+Patient Satisfaction Metrics: Visualized patient satisfaction scores for each doctor, providing insights into areas for improvement and recognizing high performers.
+
+Common Diagnoses: Identified the most common diagnoses among patients, enabling healthcare providers to allocate resources efficiently and focus on prevalent health issues.
+
+Insurance Coverage: Assessed insurance coverage details to understand the financial aspects of patient care and how different insurance providers impact overall healthcare costs.
