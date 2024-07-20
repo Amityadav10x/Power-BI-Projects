@@ -1,0 +1,15 @@
+Objectives
+
+Understand Sales Distribution: Identify which item types and outlet types contribute most to total sales.
+
+Analyze Customer Preferences: Evaluate customer preferences based on item fat content and ratings.
+
+Monitor Outlet Performance:
+ Track the performance of different outlet types and locations over time.
+
+Identify Growth Trends:
+
+ Analyze sales trends over the years to identify periods of high growth.
+Improve Inventory Management: 
+
+Use insights from item type performance to optimize inventory levels and reduce wastage.

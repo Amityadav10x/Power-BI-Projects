@@ -1,0 +1,29 @@
+Learnings from the Dashboard
+
+Total Sales:
+ The dashboard displays a total sales figure of $997.16K, indicating strong performance across outlets.
+
+Average Sales:
+ The average sales per item are $141, showing a decent revenue generation per item sold.
+
+Average Rating:
+ With an average rating of 3.9, customer satisfaction appears to be relatively high.
+
+Sales by Fat Content:
+ Items with regular fat content generate higher sales ($644.52K) compared to low fat content items ($352.64K).
+
+Sales by Item Type:
+ Fruits and vegetables, snack foods, and household items are the top-performing item types in terms of sales.
+
+Sales by Outlet Type:
+ Supermarket Type1 leads in total sales ($7.87M), followed by Supermarket Type2 ($1.31M) and Grocery Store ($78.13K).
+
+Sales by Outlet Location Type:
+ Tier 2 locations generate the highest sales ($393.15K), followed by Tier 3 ($341.42K) and Tier 1 ($262.59K).
+
+Sales by Outlet Establishment Year: 
+Sales have grown steadily over the years, peaking around 2015-2020.
+
+Number of Items: 
+The dashboard shows a total of 7060 items being sold, indicating a diverse product range.
+Outlet Performance: Detailed metrics for each outlet type, including total sales, average sales, average rating, and item visibility, provide insights into outlet performance.
