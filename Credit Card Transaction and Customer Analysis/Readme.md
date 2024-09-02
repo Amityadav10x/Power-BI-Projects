@@ -3,17 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Credit Card Transaction and Customer Analysis Dashboard</title>
+   
 </head>
 <body>
     <h1>Credit Card Transaction and Customer Analysis Dashboard</h1>
 
-    <h2>Overview</h2>
+<h2>Overview</h2>
     <p>This Power BI project consists of two comprehensive dashboards focused on analyzing credit card transactions and customer data. The first dashboard provides insights into revenue generation, transaction volumes, and key performance indicators across different credit card categories. The second dashboard focuses on customer demographics, preferences, and behaviors, helping to identify trends and make data-driven decisions for better customer engagement and business growth.</p>
 
-    <h2>Dashboard 1: Credit Card Transaction Report</h2>
+ <h2>Dashboard 1: Credit Card Transaction Report</h2>
 
-    <h3>Key Metrics</h3>
+<img src="https://drive.google.com/uc?export=view&id=16w6dgFwzfU4c6Ia6E0Blgydp7pcIHMj_" alt="Screenshot 1" style="width:100%; max-width:800px;">
+
+ 
+
+<h3>Key Metrics</h3>
     <ul>
         <li><strong>Total Revenue</strong>: $55M</li>
         <li><strong>Total Interest Earned</strong>: $7.84M</li>
@@ -21,7 +25,7 @@
         <li><strong>CSS Rating</strong>: 3.19</li>
     </ul>
 
-    <h3>Features</h3>
+<h3>Features</h3>
     <ul>
         <li><strong>Revenue by Card Category</strong>: Analyzes revenue, interest earned, and annual fees across Blue, Gold, Platinum, and Silver card categories.</li>
         <li><strong>Quarterly Revenue & Transaction Count</strong>: Tracks quarterly revenue and transaction volumes, identifying peaks and trends.</li>
@@ -32,7 +36,7 @@
         <li><strong>Customer Acquisition Cost</strong>: Analyzes the cost associated with acquiring customers across different card categories.</li>
     </ul>
 
-    <h3>Insights</h3>
+<h3>Insights</h3>
     <ul>
         <li>The <strong>Blue</strong> card category contributes the highest revenue, totaling $46.1M.</li>
         <li>The <strong>Bills</strong> expenditure type is the highest revenue generator, contributing $13M.</li>
@@ -40,9 +44,12 @@
         <li>Government employees and businessmen are significant contributors to revenue.</li>
     </ul>
 
-    <h2>Dashboard 2: Credit Card Customer Report</h2>
+ <h2>Dashboard 2: Credit Card Customer Report</h2>
+<img src="https://drive.google.com/uc?export=view&id=1_cSWDDz56AQXTuLcm9HMoUfDeoOh7vEW" alt="Screenshot 2" style="width:100%; max-width:800px;">
 
-    <h3>Key Metrics</h3>
+ 
+
+  <h3>Key Metrics</h3>
     <ul>
         <li><strong>Total Revenue</strong>: $55M</li>
         <li><strong>Total Interest Earned</strong>: $7.84M</li>
@@ -50,7 +57,7 @@
         <li><strong>CSS Rating</strong>: 3.19</li>
     </ul>
 
-    <h3>Features</h3>
+  <h3>Features</h3>
     <ul>
         <li><strong>Revenue vs Gender</strong>: Tracks revenue generated across different genders over time, identifying trends in male and female spending.</li>
         <li><strong>Revenue by Age Group</strong>: Analyzes revenue distribution across various age groups, from 20-30 to 60+ years.</li>
@@ -61,7 +68,7 @@
         <li><strong>Revenue by Education Level</strong>: Identifies revenue contributions by different education levels, such as Graduate, High School, and Post-Graduate.</li>
     </ul>
 
-    <h3>Insights</h3>
+   <h3>Insights</h3>
     <ul>
         <li><strong>Male</strong> customers contribute more to revenue compared to female customers.</li>
         <li>The <strong>40-50</strong> age group is the most significant contributor to revenue.</li>
@@ -69,21 +76,17 @@
         <li>Customers with a <strong>Graduate</strong> level of education contribute the most to revenue, indicating the importance of targeting educated professionals.</li>
     </ul>
 
-    <h2>Conclusion</h2>
+  <h2>Conclusion</h2>
     <p>The Credit Card Transaction and Customer Analysis Dashboards provide valuable insights into the financial performance and customer behaviors associated with credit card usage. These dashboards help stakeholders identify key revenue drivers, understand customer preferences, and make informed decisions to enhance customer satisfaction and business performance. The detailed analysis of customer demographics, job roles, and expenditure types offers a comprehensive view of the credit card business, enabling strategic planning and targeted marketing efforts.</p>
 
-    <h2>How to Use</h2>
+ <h2>How to Use</h2>
     <p>
         <strong>Filter Panel</strong>: Use the filter panel on the right side to view data for specific genders, age groups, job roles, and education levels.<br>
         <strong>Interactive Visualizations</strong>: Click on the different charts and graphs to drill down into specific details and uncover deeper insights.
     </p>
 
-    <h2>Author</h2>
-    <p>Developed by <strong>AMIT</strong>. For any queries or feedback, feel free to reach out.</p>
-
-    <h2>Project Screenshots</h2>
-    <img src="https://drive.google.com/file/d/1_cSWDDz56AQXTuLcm9HMoUfDeoOh7vEW/view?usp=sharing" alt="Credit Card Transaction Report" width="100%">
-    <img src="https://drive.google.com/file/d/16w6dgFwzfU4c6Ia6E0Blgydp7pcIHMj_/view?usp=sharing" alt="Credit Card Customer Report" width="100%">
+ <h2>Author</h2>
+    <p>Developer<strong>AMIT</strong>. For any queries or feedback, feel free to reach out.</p>
 
 </body>
 </html>
