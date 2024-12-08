@@ -38,10 +38,15 @@
     </section>
 
 <section id="dashboard">
-        <h2>Dashboard</h2>
-        <p>Below is an image of the interactive dashboard showcasing key insights.</p>
-        <img src="https://drive.google.com/file/d/1rkZPBTJqevTUPlxyksQYUDWLOm-t21uk/view?usp=sharing" alt="Dashboard Image" style="width:100%; height:auto;">
-    </section>
+    <h2>Dashboard</h2>
+    <p>Below is an image of the interactive dashboard showcasing key insights.</p>
+    <img src="https://drive.google.com/uc?export=view&id=1rkZPBTJqevTUPlxyksQYUDWLOm-t21uk" alt="Dashboard Image" style="width:100%; height:auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1dBAS4kFFubeYa5MLTkzpmvxtN7LbDT3J" alt="Dashboard Image" style="width:100%; height:auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1AZrZLyvrzkmW-T6MQuY7CCVpQrepXmgA" alt="Dashboard Image" style="width:100%; height:auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1Wa7zoUICAoyDuUhno_2jcCJ9Ce2cl_rA" alt="Dashboard Image" style="width:100%; height:auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1kdpP69Y_2hrzmYoPe9QIf69Rkhr4lF1B" alt="Dashboard Image" style="width:100%; height:auto;">
+</section>
+
 
 
   <section id="key-findings">
