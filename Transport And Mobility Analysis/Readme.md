@@ -12,7 +12,7 @@
 
 <section id="project-overview">
         <h2>Project Overview</h2>
-        <p>This project was completed as part of the Codebasics RPC13 Resume Challenge. The analysis focuses on understanding operational efficiency, passenger behaviors, and business opportunities for Goodcabs in tier-2 cities using multiple datasets. The project leverages Power BI for interactive dashboards and SQL for data preparation and insights generation.</p>
+        <p>This project was completed as part of the Codebasics RPC13 Resume Challenge. The analysis focuses on understanding operational efficiency, passenger behaviors, and business opportunities for Goodcabs in Tier 2 cities using multiple datasets. The project leverages Power BI for interactive dashboards and SQL for data preparation and insights generation.</p>
     </section>
 
  <section id="key-features">
@@ -36,6 +36,13 @@
             <li><strong>dim_repeat_trip_distribution:</strong> Frequency of repeat trips by city and trip count.</li>
         </ul>
     </section>
+
+<section id="dashboard">
+        <h2>Dashboard</h2>
+        <p>Below is an image of the interactive dashboard showcasing key insights.</p>
+        <img src="https://drive.google.com/file/d/1rkZPBTJqevTUPlxyksQYUDWLOm-t21uk/view?usp=sharing" alt="Dashboard Image" style="width:100%; height:auto;">
+    </section>
+
 
   <section id="key-findings">
         <h2>Key Findings and Insights</h2>
