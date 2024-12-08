@@ -80,6 +80,18 @@
         </ul>
     </section>
 
+<section id="contact">
+    <h2>Contact</h2>
+    <p>If you have any questions or feedback regarding this project, feel free to reach out!</p>
+    <ul>
+        <li><strong>Email:</strong> <a href="mailto:Amityadav10x@gmail.com">kadhiravan.jayachandiran@example.com</a></li>
+        <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-10x">Amit Yadav</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/amityadav10x">Your GitHub Profile</a></li>
+        <li><strong>Project Portfolio:</strong> <a href="https://amityadav10x.github.io/Portfolio_Website/">Project Portfolio</a></li>
+    </ul>
+</section>
+
+
    <footer>
         <p><strong>Skills Showcased:</strong> Power BI, SQL, Data Visualization, Data Analysis, Data Collection</p>
     </footer>
