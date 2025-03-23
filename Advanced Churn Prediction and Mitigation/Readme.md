@@ -17,6 +17,7 @@
             across different demographics, credit scores, and account statuses.
         </p>
 
+
  <h2>Dataset Overview</h2>
         <ul>
             <li><b>Gender:</b> Male or Female</li>
@@ -29,6 +30,14 @@
         </ul>
 
   <h2>Key Findings</h2>
+
+
+
+   <img src="https://drive.google.com/uc?export=view&id=1yUOsU55wuQ-PYTnnPX6iGDhB45ZjL57i" alt="Dashboard Image" style="width:100%; height:auto;">
+<img src="https://drive.google.com/uc?export=view&id=1N_7FE4FGrr-h3kTCGNAsSW2kS4Z5gEEo" alt="Dashboard Image" style="width:100%; height:auto;">
+
+    
+
 
   <h3>1. Churn Rate Overview</h3>
         <ul>
@@ -96,11 +105,7 @@
     <h2>Dashboards</h2>
      <p>Click the links below to access the interactive dashboards:</p>
 
-  <img src="https://drive.google.com/uc?export=view&id=1yUOsU55wuQ-PYTnnPX6iGDhB45ZjL57i" alt="Dashboard Image" style="width:100%; height:auto;">
-<img src="https://drive.google.com/uc?export=view&id=1N_7FE4FGrr-h3kTCGNAsSW2kS4Z5gEEo" alt="Dashboard Image" style="width:100%; height:auto;">
-
-    
-
+ 
 </div>
 
 </body>
