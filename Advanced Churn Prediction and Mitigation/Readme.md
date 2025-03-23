@@ -96,8 +96,10 @@
     <h2>Dashboards</h2>
      <p>Click the links below to access the interactive dashboards:</p>
 
-  <a href="https://drive.google.com/file/d/1yUOsU55wuQ-PYTnnPX6iGDhB45ZjL57i/view?usp=sharing" target="_blank" class="dashboard-link">View Dashboard 1</a>
-  <a href="https://drive.google.com/file/d/1N_7FE4FGrr-h3kTCGNAsSW2kS4Z5gEEo/view?usp=sharing" target="_blank" class="dashboard-link">View Dashboard 2</a>
+  <img src="https://drive.google.com/uc?export=view&id=1yUOsU55wuQ-PYTnnPX6iGDhB45ZjL57i" alt="Dashboard Image" style="width:100%; height:auto;">
+<img src="https://drive.google.com/uc?export=view&id=1N_7FE4FGrr-h3kTCGNAsSW2kS4Z5gEEo" alt="Dashboard Image" style="width:100%; height:auto;">
+
+    
 
 </div>
 
