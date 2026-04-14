@@ -12,7 +12,7 @@
 
 <section id="project-overview">
         <h2>Project Overview</h2>
-        <p>This project was completed as part of the Codebasics RPC13 Resume Challenge. The analysis focuses on understanding operational efficiency, passenger behaviors, and business opportunities for Goodcabs in Tier 2 cities using multiple datasets. The project leverages Power BI for interactive dashboards and SQL for data preparation and insights generation.</p>
+        <p>This project was completed as part of the Codebasics RPC13 Resume Challenge. The analysis focuses on understanding operational efficiency, passenger behaviors, and business opportunities for Goodcabs in Tier 2 cities using multiple datasets. The project leverages Power BI for interactive dashboards and SQL for data preparation and insights generation. </p>
     </section>
 
  <section id="key-features">
