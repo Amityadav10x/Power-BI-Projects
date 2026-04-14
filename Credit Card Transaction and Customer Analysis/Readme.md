@@ -23,7 +23,7 @@
         <li><strong>Total Interest Earned</strong>: $7.84M</li>
         <li><strong>Total Income</strong>: $576M</li>
         <li><strong>CSS Rating</strong>: 3.19</li>
-    </ul>
+    </ul> 
 
 <h3>Features</h3>
     <ul>
